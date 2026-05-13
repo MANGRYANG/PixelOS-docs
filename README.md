@@ -5,7 +5,7 @@
 이 저장소는 PixelOS 본 프로젝트의 코드 저장소가 아니라, 개발 과정에서 작성한 문서와 실험 기록을 관리하기 위한 문서 레포지토리입니다.
 
 ### PixelOS 코드 저장소
-[![PixelOS Docs](https://img.shields.io/badge/PixelOS-Repository-orange?style=for-the-badge&logo=qemu)](https://github.com/MANGRYANG/PixelOS)
+[![PixelOS](https://img.shields.io/badge/PixelOS-Repository-orange?style=for-the-badge&logo=qemu)](https://github.com/MANGRYANG/PixelOS)
 
 ### 문서 저장소
 [![PixelOS Docs](https://img.shields.io/badge/PixelOS-Documentation-purple?style=for-the-badge&logo=obsidian)](https://github.com/MANGRYANG/PixelOS-docs)
